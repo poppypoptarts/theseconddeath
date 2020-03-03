@@ -7,14 +7,14 @@ grid-row-gap: 10px;
 color: #fff;
 }
 
-.evanrosier .div1 { grid-area: 1 / 1 / 2 / 2; }
-.evanrosier .div2 { grid-area: 2 / 2 / 3 / 3; }
-.evanrosier .div3 { grid-area: 3 / 1 / 4 / 2; }
-.evanrosier .div4 { grid-area: 4 / 2 / 5 / 3; }
-.evanrosier .div5 { grid-area: 5 / 1 / 6 / 2; }
-.evanrosier .div6 { grid-area: 6 / 2 / 7 / 3; }
-.evanrosier .div7 { grid-area: 7 / 1 / 8 / 2; }
-.evanrosier .div8 { grid-area: 8 / 2 / 9 / 3; }
+.evanrosier .div1 { grid-area: 1 / 1 / 2 / 2; z-index: 2; }
+.evanrosier .div2 { grid-area: 2 / 2 / 3 / 3; z-index: 2; }
+.evanrosier .div3 { grid-area: 3 / 1 / 4 / 2; z-index: 2; }
+.evanrosier .div4 { grid-area: 4 / 2 / 5 / 3; z-index: 2; }
+.evanrosier .div5 { grid-area: 5 / 1 / 6 / 2; z-index: 2; }
+.evanrosier .div6 { grid-area: 6 / 2 / 7 / 3; z-index: 2; }
+.evanrosier .div7 { grid-area: 7 / 1 / 8 / 2; z-index: 2; }
+.evanrosier .div8 { grid-area: 8 / 2 / 9 / 3; z-index: 2; }
 .evanrosier .div9 { grid-area: 1 / 2 / 2 / 3; }
 .evanrosier .div10 { grid-area: 2 / 1 / 3 / 2; }
 .evanrosier .div11 { grid-area: 3 / 2 / 4 / 3; }
