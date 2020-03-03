@@ -1,0 +1,88 @@
+.evanrosier {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(8, 1fr);
+grid-column-gap: 10px;
+grid-row-gap: 10px;
+color: #fff;
+}
+
+.evanrosier .div1 { grid-area: 1 / 1 / 2 / 2; }
+.evanrosier .div2 { grid-area: 2 / 2 / 3 / 3; }
+.evanrosier .div3 { grid-area: 3 / 1 / 4 / 2; }
+.evanrosier .div4 { grid-area: 4 / 2 / 5 / 3; }
+.evanrosier .div5 { grid-area: 5 / 1 / 6 / 2; }
+.evanrosier .div6 { grid-area: 6 / 2 / 7 / 3; }
+.evanrosier .div7 { grid-area: 7 / 1 / 8 / 2; }
+.evanrosier .div8 { grid-area: 8 / 2 / 9 / 3; }
+.evanrosier .div9 { grid-area: 1 / 2 / 2 / 3; }
+.evanrosier .div10 { grid-area: 2 / 1 / 3 / 2; }
+.evanrosier .div11 { grid-area: 3 / 2 / 4 / 3; }
+.evanrosier .div12 { grid-area: 4 / 1 / 5 / 2; }
+.evanrosier .div13 { grid-area: 5 / 2 / 6 / 3; }
+.evanrosier .div14 { grid-area: 6 / 1 / 7 / 2; }
+.evanrosier .div15 { grid-area: 7 / 2 / 8 / 3; }
+.evanrosier .div16 { grid-area: 8 / 1 / 9 / 2; }
+
+.evanrosier appsec {
+  display: block;
+  width: 100%;
+  height: 350px;
+  box-sizing: border-box;
+  padding: 20px;
+  background-size:cover;
+}
+.evanrosier appsec div {
+  height: 310px;
+  overflow: auto;
+  box-sizing: border-box;
+  padding: 20px;
+  font: 300 12px EB Garamond;
+  text-align: justify;
+}
+.evanrosier .div1 appsec {background-image: url(https://cdnw.nickpic.host/sevOk6.png)}
+.evanrosier .div2 appsec {background-image: url(https://cdnw.nickpic.host/sexVhA.png)}
+.evanrosier .div3 appsec {background-image: url(https://cdnw.nickpic.host/seBxa8.png)}
+.evanrosier .div4 appsec {background-image: url(https://cdnw.nickpic.host/ser64c.png)}
+.evanrosier .div5 appsec {background-image: url(https://cdnw.nickpic.host/sexVhA.png)}
+.evanrosier .div6 appsec {background-image: url(https://cdnw.nickpic.host/sesJu2.png)}
+.evanrosier .div7 appsec {background-image: url(https://cdnw.nickpic.host/se3zU8.png)}
+.evanrosier .div8 appsec {background-image: url(https://cdnw.nickpic.host/sesJu2.png)}
+
+.evanrosier evanq {
+  display: block;
+  padding: 20px;
+  font: 300 15px DM Serif Display;
+  text-align: center;
+  background: #000;
+  margin-bottom: 10px;
+  background-size: cover;
+  background-image: url(https://cdnw.nickpic.host/sevsMq.png);
+}
+.evanrosier evanimg {
+  display:block;
+  margin-bottom: 10px;
+}
+.evanrosier evanimg img {
+  width: 100%;
+  filter: grayscale(100%);
+}
+.evanrosier > div {position: relative;}
+.evanrosier .div2 {top: -114px;}
+.evanrosier .div10 {top: -42px;}
+.evanrosier .div3 {top: -93px;}
+.evanrosier .div11 {top: -156px;}
+.evanrosier .div4 {top: -366px;}
+.evanrosier .div12 {top: -135px;}
+.evanrosier .div13 {top: -409px;}
+.evanrosier .div5 {top: -383px;}
+.evanrosier .div6 {top: -509px;}
+.evanrosier .div14 {top: -425px;}
+.evanrosier .div15 {top: -551px;}
+.evanrosier .div7 {top: -435px;}
+.evanrosier .div8 {top: -693px;}
+.evanrosier .div16 {top: -477px;}
+.evanclip {
+  height:2546px;
+  overflow: hidden;
+}
